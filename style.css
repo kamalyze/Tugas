@@ -1,0 +1,33 @@
+h1 {
+    text-align: left;
+}
+p {
+    color: blue;
+}
+#selector-id {
+    color: black;
+}
+.selector-class {
+    color: green;
+}
+body {
+    margin: 0;
+}
+nav {
+    background-color: rgb(156, 158, 16);
+    margin: 0;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    display: flex;
+}
+nav ul li {
+    list-style: none;
+    padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
